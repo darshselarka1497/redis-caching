@@ -1,4 +1,4 @@
 2 cmds:
-redis-cli (first type- write shutdown)
+redis-cli (then type shutdown)
 redis-server
 
